@@ -1,0 +1,541 @@
+{
+  "ourServices": "Our services",
+  "@ourServices": {
+  },
+  "language":"Languages",
+  "@language": {
+  },
+  "tax_calculators":"Tax calculators",
+  "@tax_calculators": {
+  },
+  "salary_calculators":"Salary calculators",
+  "@salary_calculators": {
+  },
+  "tax_tips":"Types of taxes in Egypt",
+  "@tax_tips": {
+  },
+  "company_types":"Types of companies in Egypt",
+  "@company_types": {
+  },
+  "zakat_calculator":"Zakat calculators",
+  "@zakat_calculator": {
+  },
+  "about":"About Fathalla CPA",
+  "@about": {
+  },
+  "contact":"Contact us",
+  "@contact": {
+  },
+  "german_button":"German desk",
+  "@german_button": {
+  },
+  "jointStock":"Joint Stock",
+  "@jointStock": {
+  },
+  "llc":"Limited Liability Company (LLC)",
+  "@llc": {
+  },
+  "foreign_comp":"Branch of a foreign company",
+  "@foreign_comp": {
+  },
+  "repOffice":"Representative office",
+  "@repOffice": {
+  },
+  "onePerson":"One-Person company",
+  "@onePerson": {
+  },
+  "ourTaxCalc":"Our Tax calculators",
+  "@ourTaxCalc": {
+  },
+  "corp_inc":"Corporate Income Tax",
+  "@corp_inc": {
+  },
+  "takaful":" Takaful Contribution",
+  "@takaful": {
+  },
+  "vat":"Value Added Tax",
+  "@vat": {
+  },
+  "wht":"Withholding Tax",
+  "@wht": {
+  },
+  "whtFor":"Withholding Tax Non-Resident",
+  "@whtFor": {
+  },
+  "dividend":"Dividend tax",
+  "@dividend": {
+  },
+  "social_cont":"Social Contribution",
+  "@social_cont": {
+  },
+  "social_ins":"Social Insurance",
+  "@social_ins": {
+  },
+  "emergncy_fnd":"Emergency Fund",
+  "@emergncy_fnd": {
+  },
+"socialcultu":"Social and Cultural Services Fund:",
+"@socialcultu": {
+},
+  "incTaxINPT":"Profit before tax",
+  "@incTaxINPT": {
+  },
+  "calculate":"Calculate",
+  "@calculate": {
+  },
+  "yearly":"Yearly",
+  "@yearly": {
+  },
+  "corp_tax":"Corporation tax(22.5%)",
+  "@corp_tax": {
+  },
+  "netInc":"Net Income(After tax)",
+  "@netInc": {
+  },
+  "takafulINPT":"Enter gross sales revenue",
+  "@takafulINPT": {
+  },
+  "annualGrosssales":"Annual gross sales revenue",
+  "@annualGrosssales": {
+  },
+  "contrubutionTakaful":"Contribution(0.25%)",
+  "@contrubutionTakaful": {
+  },
+  "netValue":"Net Value",
+  "@netValue": {
+  },
+  "ammount":"Amount",
+  "@ammount": {
+  },
+  "amountwvat":"Amount with VAT",
+  "@ammountwvat": {
+  },
+  "ammounttotal":"Total amount",
+  "@ammounttotal": {
+  },
+  "vAT":"VAT(14%)",
+  "@vAT": {
+  },
+  "monthly14":"Monthly (14%) :",
+  "@monthly14": {
+  },
+  "included":"Included",
+  "@included": {
+  },
+  "excluded":"Excluded",
+  "@excluded": {
+  },
+  "monthly":"Monthly",
+  "@monthly": {},
+  "purchedgoods":"Purchased goods tax",
+  "@purchasedgoods": {
+  },
+  "servicetax":"Service tax",
+  "@servicetax": {
+  },
+  "proftax":"Professional fees tax",
+  "@proftax": {}
+  ,
+"purchedINPT":"Enter the value of purchased goods",
+"@purchasedINPT": {
+},
+"serviceINPT":"Enter the value of the services",
+"@serviceINPT": {
+},
+"profINPT":"Enter the value of the Professional fees",
+"@profINPT": {},
+"quarterly":"Quarterly",
+"@quarterly": {},
+"purchsValue":"purchases value",
+"@purchsValue": {},
+"netAmount":"Net amount",
+"@netAmount": {},
+"servcValue":"Service value",
+"@servcValue": {},
+"profValue":"Professional fees value",
+"@profValue": {},
+"whtForINPT":"Payment to non-residents",
+"@whtForINPT": {},
+"dvdndINPT":"Enter profit after taxes",
+"@dvdndINPT": {},
+"yourComp":"Your company is(5%/10%) :",
+"@yourComp": {},
+"listed":"Listed",
+"@listed": {},
+"nonlisted":"Non listed",
+"@nonlisted": {},
+"proftAftrtax":"Profit after tax",
+"@proftAftertax": {},
+"socialInsINPT":"Enter your gross salary",
+"@socialInsINPT": {
+},
+"whoPay":"Who is paying(18.75%/11%):",
+"@whoPay": {
+},
+"employee":"Employee",
+"@employee": {
+},
+"employer":"Employer",
+"@employer": {
+},
+"monthlymaxmin":"Monthly(Max 9400 Min 1400):",
+"@monthmymaxmin": {
+},
+"monthlysub":"Monthly subscription",
+"@monthmysub": {
+},
+"totalcont":"Total Contribution",
+"@totalcont": {
+},
+"emrgncINPT":"Enter your basic salaries",
+"@emrgncINPT": {
+},
+"totalbasic":"Total basic salaries",
+"@totalbasic": {
+},
+"emrgncfund":"Emergency fund(1%)",
+"@emrgncfund": {
+},
+"grossnet":"Gross to Net",
+"@grossnet": {
+},
+"netgross":"Net to Gross",
+"@netgross": {
+},
+"salaryINPT":"Enter monthly salary",
+"@salaryINPT": {
+},
+"insuranceINPT":"Monthly Social Insurance",
+"@insuranceINPT": {
+},
+"grossSalary":"Gross salary",
+"@grossSalary": {
+},
+"siSalary":"SI Salary",
+"@siSalary": {
+},
+"employeeShare":"Empmloyee Share",
+"@employeeShare": {
+},
+"mosharaka":"Mocharaka",
+"@mosharaka": {
+},
+"employerShare":"Employer Share",
+"@emrployerShare": {
+},
+"tax":"Tax",
+"@Tax": {
+},
+"totalcost":"Total employer cost",
+"@totalcost": {
+},
+"netSalary":"Net Salary",
+"@netSalary": {
+},
+"individualZakat":"Individual Zakat",
+"@individualZakat": {
+},
+"tradeZakat":"Zakat on trade",
+"@tradeZakat": {
+},
+"marketVal":"Market value of inventory",
+"@marketVal": {
+},
+"bankHand":"Cash in bank and in hand",
+"@bankHand": {
+},
+"receivables":"Receivables (Good one)",
+"@receivables": {
+},
+"secureddebit":"All secured debit balances",
+"@secureddebit": {
+},
+"sharesTrades":"Shares for trades",
+"@sharesTrades": {
+},
+"less":"Less",
+"@less": {
+},
+"shortPayables":"Short term payables",
+"@shortPayables": {
+},
+"allShort":"All short term credit balances",
+"@allShort": {
+},
+"whatNissab":"What is Nissab",
+"@whatNissab": {
+},
+"nissab":"Prophet Muhammad (peace be upon him) had set The Nisab by at a rate equivalent to: 85 grams of gold",
+"@nissab": {
+},
+"zakatBase":"Zakat base",
+"@zakatBase": {
+},
+"zakatValue":"Zakat value (2.5%)",
+"@zakatValue": {
+},
+"savedMoney":"Saved money (for haj, marriage, etc...)",
+"@savedMoney": {
+},
+"loansRecivables":"Loans receivable",
+"@loansRecivables": {
+},
+"goldJewl":"Gold and jewlery for investment",
+"@goldJewl": {
+},
+"indivShare":"Individual share in a company",
+"@indivShare": {
+},
+"establishement":"Establishement",
+"@establishement": {
+},
+"managment":"Managment",
+"@managment": {
+},
+"capital":"Capital",
+"@capital": {
+},
+"taxes":"Taxes",
+"@taxes": {
+},
+"rates":"Rates",
+"@rates": {
+},
+"profitSharing":"Profit sharing",
+"@profitSharing": {
+},
+"foreignBranches":"Foreign branches",
+"@foreignBranches": {
+},
+"jscParagraph":"- A joint-stock company (JSC) is a company whose capital is divided into shares of equal values, the liability of the shareholder is confined to the value of their shares, rather than that he is not liable for the debts of the company except within the limit of those shares. \n -It may be a closed company or a listed company.",
+"@jscParagraph": {
+},
+"jscEstablishement":"- Can be 100% foreigners’ ownership \n - Minimum number of shareholders is 3 (Companies or Individuals).\n - Submit trade Name Clearance Certificate which checks the name of the company taken by another company or not.\n - Paid 10% of the capital prior to the establishment and provided by bank certificate from an authorized bank by The Central Bank of Egypt.",
+"@jscEstablishment": {
+},
+"jscManagment":"- Can be 100% foreign board of directors\n - Minimum number of board of directors is 3 members. ",
+"@jscManagment": {
+},
+"jscCapital":"- The required minimum issued capital is 250,000, Pay 10% is at the time of establishment. - Pay a percentage of 25% from the issued capital within three months from the establishment and pay the remaining amount of the nominal value of the shares within five years.- Pay a percentage of 25% from the issued capital within three months from the establishment and pay the remaining amount of the nominal value of the shares within five years.",
+"@jscCapital": {
+},
+"jscTaxes":"Taxes at a rate of 22.5 % paid on company profits for JSC.",
+"@jscTaxes": {
+},
+"llcParagraph":"-The Limited Liability Company is a closed company due to the limited liability of its partners to the value of their shares in the company.",
+"@llcParagraph": {
+},
+"llcEstablishement":"- Can be 100% foreigners’ ownership.\n - Minimum number of shareholders is 2 (Individuals or Companies).\n - No need to deposit capital in the bank (No payment is required).",
+"@llcEstablishment": {
+},
+"llcManagment":"- Manager can be Egyptian or Foreigner.",
+"@llcManagment": {
+},
+"llcCapital":"- The minimum share capital required to form an LLC is LE 1,000. \n - We recommend having a relevant capital to avoid tax problem, and to be able to apply for tenders, and to be able to extract certificates such as: Export License Certificate.",
+"@llcCapital": {
+},
+"llcTaxes":"Taxes at a rate of 22.5 % paid on company profits for LLC.",
+"@llcTaxes": {
+},
+"llcProfit":"- In case of the capital of the limited liability company does not reach LE 250,000, no obligation for the company to distribute part of the profits to the employees. \n-If the capital reaches the mentioned capital, distribute 10% of the net profits to employees, provided that such 10% does not exceed the annual total value of salaries and wages payable to the employees ",
+"@llcProfit": {
+},
+"fcParagraph":"-Foreign branches can be only registered in Egypt to carry out construction works or generally work of contractual nature according to a contract concluded with any Egyptian entity either the Egyptian Government, Public Sector, or Private Company.\n -The use of foreign branch is limited to the purpose of implementing a specific contract in Egypt. \n - This contract should be signed with a resident company in Egypt.",
+"@fcParagraph": {
+},
+"fcManagment":"- Managers can be Egyptian or Foreigners.",
+"@fcManagment": {
+},
+"fcCapital":"No capital requirements are needed.",
+"@fcCapital": {
+},
+"fcTaxes":"- Taxes at a rate of 22.5 % paid on company profits for foreign branches (the same rate as Egyptian companies). \n - Foreign branches are entitled to deduct a head office charge up to 10% of their taxable income. \n - Foreign branches’ profits in Egypt are considered distributed profits within 60 days after the financial year-end. As a result, a branch must pay dividend tax on its annual profits.",
+"@fcTaxes": {
+},
+"opParagraph":"-Minimum capital is 1,000 EGP, must be paid in full at time of incorporation. \n -The liability of the owner is limited to his share in the company. ",
+"@opParagraph": {
+},
+"opParTitle":"One-Person Company \n(Single Owner LLC)",
+"@opParTitle": {
+},
+
+"opAdvantagesTitle":"Advantages of one one person company",
+"@opAdvantagesTitle": {
+},
+"opAdvantages":"-The one-person company needs only one partner or founder, so the opportunity to the small investors to own a company without the need to obtain a certain number of partners or shareholders. Since a one-person company is the owner-partner in which is liable for its share only by the amount of the company’s capital. \n-There is another advantage for the One Person Company is that the decision is made within the company as the owner of a one-person company exercises all the powers granted to the board of directors and the powers of the ordinary and extraordinary general assembly, being the only partner.",
+"@opAdvantages": {
+},
+"opEstablishTitle":"Establishment and work of a One-Person company",
+"@opEstablishTitle": {
+},
+"opEstablish":"-Establish a one-person company by one natural or legal entity only. Thereafter, any more partner in the company shall not be a one-person company. \n-The founder shall establish a company in Egypt by himself or by his representative by submitting an application to the Authority. Each company shall have its regulation including its name, purposes, the data of its founder, duration, and managing system, the address of its head office, branches, the amount of its capital, and the company liquidation. And any data mentioned by the Executive Regulations. \n-An approval from the prime minister or the competent minister if the founder of the company is a public law person. \n-Paid the company’s capital in full prior to the establishment of the company. \n-In case of the founder dealt with the capital to a natural or legal entity, it is a must to amend the company’s data and the commercial register within a period not exceeding three months from the date of the deal, in accordance with the procedures and rules specified by the Regulations. In all cases, the act shall not be effective against third parties except the date of registration in the commercial register.",
+"@opEstablish": {
+},
+"rpParagrpah":"- Its purpose is limited to studying the market without practicing any type of commercial activity.\n - Subject only to Salary Tax & Withholding tax.\n - Subject only to Salary Tax & Withholding tax\n - Not subject to Income Tax or VAT.\n - Managers can be Foreigners or Egyptians. ",
+"@rpParagraph": {
+},
+"rpShouldNot":"Representative offices should not",
+"@rpShouldNot": {
+},
+"rpShouldNot1":"- Issue any invoice.\n - Receive any money locally (Which means that the banks account should only reflect inwards from the head office only).",
+"@rpShouldNot1": {
+},
+"rpShouldNot2":"Important note :",
+"@rpShouldNot2": {
+},
+"rpShouldNot3":"- According to the decision of GAFI, life of representative office should not exceed 3 years on average, and to have approval for work year by year.\n - GAFI requests that representative office should present market studies to them each year.\n - Representative office should take a decision to open a company or a branch after finishing its market study.",
+"@rpShouldNot3": {
+},
+"inquiry":"For any inquiries or questions, kindly contact us at",
+"@inquiry": {
+},
+"cairo":"Cairo",
+"@cairo": {
+},
+"adress":"Address",
+"@adress": {
+},
+"phone":"Phone",
+"@phone": {
+},
+"alex":"Alexandria",
+"@alex": {
+},
+"payRoll":"Payroll Tax (Salary Tax)",
+"@payRoll": {
+},
+"annualTax":"Annual tax reconciliation \n(Form 6)",
+"@annualTax": {
+},
+"dueDateTax":"- Due Date of Tax return:",
+"@dueDateTax": {
+},
+"taxDate":"- Tax Payment Date :",
+"@taxDate": {
+},
+"tRate":"- Rates :",
+"@tRate": {
+},
+"socialCont":"Social Contribution Honoring the martyrs' victims and injured of war and terrorist operations:",
+"@socialCont": {
+},
+"ddCIT":"It is filed and submitted on an annual basis within four months from the end of fiscal year. \n Ex. If the company's fiscal year ends 31 December 2021, then The income tax return must be submitted before the end of April of the following year (before 30 April 2022)",
+"@ddCIT": {
+},
+"tpCIT":"Income tax must be paid before the end of April of the following fiscal year in case of calendar year",
+"@tpCIT": {
+},
+"rCIT":"22.5% of the Net Income",
+"@rCIT": {
+},
+"ddTC":"It is calculated as .0025 of the total sales revenue (As shown in the Profit & Loss statement)\n Ex: If total revenue is (1,000,000 EGP ) , takaful contribution will be (1,000,000*0.0025) 2,500 EGP",
+"@ddTC": {
+},
+"tpTC":"Takaful contribution must be paid before the end of April of the following fiscal year and Has to be paid to the following (account no. 9300704175 of Central bank of Egypt)",
+"@tpTC": {
+},
+"rTC":"0.25% of the annual gross sales revenue amount",
+"@rTC": {
+},
+"ddPT":"Form 4 is filed each quarter, and it has to be submitted in the next month following the quarter. \n Ex: for quarter 4(October, November, and December 2021) must be filled out and submitted before 31 January 2022 ",
+"@ddPT": {
+},
+"tpPT":"Must be paid monthly before day 15 of next month. \n Ex: for month December 2021 payroll tax must be paid before 15 January 2022",
+"@tpPT": {
+},
+"rPT":"2.5% to 25%",
+"@rPT": {
+},
+"ddAT":"Employers should submit an annual tax reconciliation to the tax authority during January of each year showing the annual salaries and wages of each employee accompanied with the unpaid payroll tax amounts.",
+"@ddAT": {
+},
+"tpAT":"Form 6 filed & submitted on an annual basis, and it has to be submitted during January of each year.",
+"@tpAT": {
+},
+"ddVAT":"Form 10 is filed on a monthly basis & must be submitted during 30 days of the following month \n Ex: For December 2021, VAT return must be filed and submitted in the next month before 31 January 2022",
+"@ddVAT": {
+},
+"tpVAT":"VAT must be paid within 30 days.",
+"@tpVAT": {
+},
+"rVAT":"Commonly 14%, other rates applies for scheduled products and services such as (5%, 8% & 10%), some products are exempted.",
+"@rVAT": {
+},
+"ddWHT":"Form 41 is filed each quarter, and it has to be submitted in the next month following the quarter.",
+"@ddWHT": {
+},
+"tpWHT":"Must be paid in the next month following the quarter.\n Ex: For quarter 4 (October, November, and December 2021 )WHT must be paid before 31 January 2022.",
+"@tpWHT": {
+},
+"rWHT":"1% purchases goods / 3% services / 5% Professional fees",
+"@rWHT": {
+},
+"ddWHTF":"Form 11 is filed and submitted to (Central Administration for international agreements) monthly before day 15 of next month",
+"@ddWHTF": {
+},
+"tpWHTF":"Must be paid monthly before day 15 of next month \n Ex: If a non resident company provides consulting services to a resident company for 100,000 EGP during January 2022 so 20,000EGP (20% withholding tax) should be deducted and paid to the tax authority before 15 February 2022.",
+"@tpWHTF": {
+},
+"rWHTF":"20% (article 56 of law no.91 for 2005)",
+"@rWHTF": {
+},
+"ddDT":"Froms 42 & 44 have to be submitted maximum by day 5 of the next month following the distribution.",
+"@ddDT": {
+},
+"tpDT1":"Must be paid before day 5 of the next month following the distribution \n",
+"@tpDT1": {
+},
+"dtException":"Exception: \n",
+"@dtException": {
+},
+"tpDT2":"Foreign branches profits are considered distributed profits dividends tax must be paid 60 days after the financial year end.",
+"@tpDT2": {
+},
+"rDT":"10% for Non listed companies / 5% for listed companies",
+"@rDT": {
+},
+"ddSC":"It is calculated as 0.0005 of the gross salary of employees \n Ex: If Gross salary of employee A is (10,000 EGP) social contribution will be (10,000*0.0005) 5 EGP",
+"@ddSC": {
+},
+"tpSC":"Must be paid monthly before day 10 of next month (on account no. 9450772730) \n Ex: for month December 2021 Social Contribution must be paid before 10 January 2022",
+"@tpSC": {
+},
+"rSC":"0.0005 of monthly gross salaries",
+"@rSC": {
+},
+"tpSI":"Must be paid monthly before day 15 of next month",
+"@tpSI": {
+},
+"rSI":"11% Employee Share - 18.75% Company Share from the insured salary (Minimum insured salary is 1,400 EGP & Maximum insured salary is 9,400 EGP for the year 2022) Note: According to Resolution No. 57 of 2021 issued by the Ministry of Planning and Economic Development, the minimum wage is set at 2,400 EGP",
+"@rSI": {
+},
+"ddEF":"Applies on the companies that have 30 or more employees.",
+"@ddEF": {
+},
+"tpEF":"It is calculated as 0.01of the basic salary and must be paid monthly before day 15 of next month \n Ex: If basic salary of employee A is (2,060 EGP) amount to be paid will be (2,060*00.01) 20.60 EGP",
+"@tpEF": {
+},
+"rEF":"1% of basic Salary (320 EGP minimum, 2,060 EGP maximum) for the year 2022.",
+"@rEF": {
+},
+"rSS":"5 EGP for each employee Anually.",
+"@rSS": {
+},
+"mailUs":"Mail us",
+"@mailUs": {
+},
+"mailSubject":"Mail's subject",
+"@mailSubject": {
+},
+"mailContent":"Write for us",
+"@mailContent": {
+},
+"send":"Send",
+"@send": {
+},
+"yourOrg":"Your organization",
+"@yourOrg": {
+}
+
+
+}

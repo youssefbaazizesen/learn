@@ -1,0 +1,559 @@
+{
+"ourServices": "Unsere Dienstleistungen",
+"@ourServices": {
+    },
+"language":"Sprachen",
+"@language": {
+},
+"tax_calculators":"Steuerliche Berechnungen",
+"@tax_calculators": {
+},
+"salary_calculators":"Berechnungen der Gehälter",
+"@salary_calculators": {
+},
+"tax_tips":"Steuerarten in Ägypten",
+"@tax_tips": {
+},
+"company_types":"Arten von Unternehmen in Ägypten",
+"@company_types": {
+  },
+ "zakat_calculator":"Zakat Berechnungen",
+  "@zakat_calculator": {
+  },
+  "about":"Über Fathalla CPA",
+  "@about": {
+  },
+  "contact":"Kontaktiere uns",
+  "@contact": {
+  },
+  "language_button":"Sprachen",
+  "@language_button": {
+  },
+  "german_button":"Deutsches Büro",
+  "@german_button": {
+  },
+  "jointStock":"Aktiengesellschaft",
+  "@jointStock": {
+  },
+  "llc":"Gesellschaft mit beschränkter Haftung (GmbH)",
+  "@llc": {
+  },
+  "foreign_comp":"Zweig eines ausländischen Unternehmens",
+  "@foreign_comp": {
+  },
+  "repOffice":"Vertretungsbüro",
+  "@repOffice": {
+  },
+  "onePerson":"Ein-Personen-Unternehmen",
+  "@onePerson": {
+  },
+  
+  "ourTaxCalc":"Unsere Steuerberechner",
+  "@ourTaxCalc": {
+  },
+
+  "corp_inc":"Körperschaftssteuererklärung",
+  "@corp_inc": {
+  },
+  "takaful":" Takaful Beitrag",
+  "@takaful": {
+  },
+  "vat":"Mehrwertsteuer",
+  "@vat": {
+  },
+  "wht":"Quellensteuer",
+  "@wht": {
+  },
+  "whtFor":"Quellensteuer für nicht wohnhaft",
+  "@whtFor": {
+  },
+  "dividend":"Dividendensteuers",
+  "@dividend": {
+  },
+  "social_cont":"Sozialbeitrag",
+  "@social_cont": {
+  },
+  "social_ins":"Sozialversicherung",
+  "@social_ins": {
+  },
+  "emergncy_fnd":"Notfallfonds",
+  "@emergncy_fnd": {
+  },
+  "incTaxINPT":"Gewinn vor Steuern",
+  "@incTaxINPT": {
+  },
+  "calculate":"Berechnen",
+  "@calculate": {
+  },
+  "yearly":"Jährlich",
+  "@yearly": {
+  },
+  "corp_tax":"Körperschaftssteuer(22.5%)",
+  "@corp_tax": {
+  },
+  "netInc":"Reingewinn(Nach Steuern)",
+  "@netInc": {
+  },
+  "takafulINPT":"Geben Sie den Bruttoverkaufserlös ein",
+  "@takafulINPT": {
+  },
+  "annualGrosssales":"Jährliche Bruttoumsatzerlöse",
+  "@annualGrosssales": {
+  },
+  "contrubutionTakaful":"Beitrag(0.25%)",
+  "@contrubutionTakaful": {
+  },
+  "netValue":"Nettowert",
+  "@netValue": {
+  },
+  "ammount":"Betrag",
+  "@ammount": {
+  },
+  "amountwvat":"Betrag mit MwSt.",
+  "@ammountwvat": {
+  },
+  "ammounttotal":"Gesamtbetrag",
+  "@ammounttotal": {
+  },
+  "vAT":"MwSt. (14%)",
+  "@vAT": {
+  },
+  "monthly14":"Monatlich (14%) :",
+  "@monthly14": {
+},
+"included":"Eingeschlossen",
+"@included": {
+},
+"excluded":"Ausgeschlossen",
+"@excluded": {
+},
+"monthly":"Monatlich",
+"@monthly": {},
+"purchedgoods":"Steuer auf gekaufte Güter",
+"@purchasedgoods": {
+},
+"servicetax":"Steuer auf Dienstleistungen",
+"@servicetax": {
+},
+"proftax":"Steuer auf Berufshonorare",
+"@proftax": {},
+"purchedINPT":"Geben Sie den Wert der gekauften Waren an",
+"@purchasedINPT": {
+},
+"serviceINPT":"Geben Sie den Wert der Dienstleistungen ein",
+"@serviceINPT": {
+},
+"profINPT":"Geben Sie den Wert der Berufshonorare ein",
+"@profINPT": {},
+"quarterly":"Vierteljährlich",
+"@quarterly": {},
+"purchsValue":"Einkaufswert",
+"@purchsValue": {},
+"netAmount":"Nettobetrag",
+"@netAmount": {},
+"servcValue":"Wert der Dienstleistungen",
+"@servcValue": {},
+"profValue":"Wert der Berufshonorare",
+"@profValue": {},
+"whtForINPT":"Zahlung an Nichtansässige",
+"@whtForINPT": {},
+"dvdndINPT":"Gewinn nach Steuern eingeben",
+"@dvdndINPT": {},
+"yourComp":"Ihr Unternehmen ist (5%/10%) :",
+"@yourComp": {},
+"listed":"Aufgeführt",
+"@listed": {},
+"nonlisted":"Nicht gelistet",
+"@nonlisted": {},
+"proftAftrtax":"Gewinn nach Steuern",
+"@proftAftertax": {},
+"socialInsINPT":"Geben Sie Ihr Bruttogehalt ein",
+"@socialInsINPT": {
+},
+"whoPay":"Wer zahlt(18,75%/11%):",
+"@whoPay": {
+},
+"employee":"Mitarbeiter",
+"@employee": {
+},
+"employer":"Arbeitgeber",
+"@employer": {
+},
+"monthlymaxmin":"Monatlich (Max 9400 Min 1400):",
+"@monthmymaxmin": {
+},
+"monthlysub":"Monatliches Abonnement",
+"@monthmysub": {
+},
+"totalcont":"Gesamtbeitrag",
+"@totalcont": {
+},
+"emrgncINPT":"Geben Sie Ihre Grundgehälter ein",
+"@emrgncINPT": {
+},
+"totalbasic":"Grundgehälter insgesamt",
+"@totalbasic": {
+},
+"emrgncfund":"Notfallfonds(1%)",
+"@emrgncfund": {
+},
+"grossnet":"Brutto zu Netto",
+"@grossnet": {
+},
+"netgross":"Netto zu Brutto",
+"@netgross": {
+},
+"salaryINPT":"Geben Sie das monatliche Gehalt ein",
+"@salaryINPT": {
+},
+"insuranceINPT":"Monatliche Sozialversicherung",
+"@insuranceINPT": {
+},
+"grossSalary":"Bruttogehalt",
+"@grossSalary": {
+},
+"siSalary":"SV Gehalt",
+"@siSalary": {
+},
+"employeeShare":"Anteil der Mitarbeiter",
+"@employeeShare": {
+},
+"mosharaka":"Mocharaka",
+"@mosharaka": {
+},
+"employerShare":"Anteil des Arbeitgebers",
+"@emrployerShare": {
+},
+"tax":"Steuer",
+"@Tax": {
+},
+"totalcost":"Arbeitgeberkosten insgesamt",
+"@totalcost": {
+},
+"netSalary":"Netto-Gehalt",
+"@netSalary": {
+},
+"individualZakat":"Individuelle Zakat",
+"@individualZakat": {
+},
+"tradeZakat":"Zakat für den Handel",
+"@tradeZakat": {
+},
+"marketVal":"Marktwert der Vorräte",
+"@marketVal": {
+},
+"bankHand":"Bankguthaben und Kassenbestand",
+"@bankHand": {
+},
+"receivables":"Forderungen (Gute)",
+"@receivables": {
+},
+"secureddebit":"Alle gesicherten Sollsalden",
+"@secureddebit": {
+},
+"sharesTrades":"Aktien für den Handel",
+"@sharesTrades": {
+},
+"less":"Weniger",
+"@less": {
+},
+"shortPayables":"Kurzfristige Verbindlichkeiten",
+"@shortPayables": {
+},
+"allShort":"Alle kurzfristigen Kreditsalden",
+"@allShort": {
+},
+"whatNissab":"Was ist Nissab ?",
+"@whatNissab": {
+},
+"nissab":"Der Prophet Muhammad (Friede sei mit ihm) hatte den Nisab auf einen Wert festgesetzt, der einem Wert von: 85 Gramm Gold",
+"@nissab": {
+},
+"zakatBase":"Zakat Basis",
+"@zakatBase": {
+},
+"zakatValue":"Zakat-Wert (2,5%)",
+"@zakatValue": {
+},
+"savedMoney":"Gespartes Geld (für Haj, Heirat usw...)",
+"@savedMoney": {
+},
+"loansRecivables":"Zu erhaltende Darlehen",
+"@loansRecivables": {
+},
+"goldJewl":"Gold und Juwelen für Investitionen",
+"@goldJewl": {
+},
+"indivShare":"Einzelne Anteile an einem Unternehmen",
+"@indivShare": {
+},
+"establishement":"Einrichtung",
+"@establishement": {
+},
+"managment":"Verwaltung",
+"@managment": {
+},
+"capital":"Kapital",
+"@capital": {
+},
+"rates":"Tarife",
+"@rates": {
+},
+"taxes":"Steuern",
+"@taxes": {
+},
+
+"opParTitle":"Ein-Personen-Unternehmen \n(Ein-Eigentümer-GmbH)",
+"@opParTitle": {
+},
+
+"foreignBranches":"Ausländische Niederlassungen",
+"@foreignBranches": {
+},
+"profitSharing":"Gewinnbeteiligung",
+"@profitSharing": {
+},
+"jscParagraph":"- Eine Aktiengesellschaft (AG) ist eine Gesellschaft, deren Kapital in Aktien von gleichem Wert aufgeteilt ist, wobei die Haftung der Aktionäre auf den Wert ihrer Aktien beschränkt ist, und nicht, dass sie für die Schulden der Gesellschaft nur bis zur Höhe dieser Aktien haften. Es kann sich um ein geschlossenes oder ein börsennotiertes Unternehmen handeln.",
+"@jscParagraph": {
+},
+"jscEstablishement":"- Kann zu 100% in ausländischem Besitz sein,\n - Die Mindestanzahl der Aktionäre beträgt 3 (Unternehmen oder Einzelpersonen).\n - Reichen Sie eine Unbedenklichkeitsbescheinigung für den Handelsnamen ein, die prüft, ob der Name des Unternehmens von einem anderen Unternehmen übernommen wurde oder nicht\n - Einzahlung von 10 % des Kapitals vor der Gründung und Vorlage einer Bankbescheinigung einer von der ägyptischen Zentralbank zugelassenen Bank. ",
+"@jscEstablishment": {
+},
+"jscManagment":"- Kann 100% ausländischer Vorstand sein \n - Die Mindestanzahl der Mitglieder des Verwaltungsrats beträgt 3.",
+"@jscManagment": {
+},
+"jscCapital":"- Das erforderliche Mindeststammkapital beträgt 250.000, die Einzahlung von 10% erfolgt zum Zeitpunkt der Gründung.\n- Einzahlung eines Prozentsatzes von 25 % des gezeichneten Kapitals innerhalb von drei Monaten nach der Gründung und Zahlung des Restbetrags des Nennwerts der Aktien innerhalb von fünf Jahren.\n- Einzahlung eines Prozentsatzes von 25 % des gezeichneten Kapitals innerhalb von drei Monaten nach der Gründung und Einzahlung des Restbetrags des Nennwerts der Aktien innerhalb von fünf Jahren.",
+"@jscCapital": {
+},
+"jscTaxes":"Steuern in Höhe von 22,5 % auf Unternehmensgewinne für AG",
+"@jscTaxes": {
+},
+"llcParagraph":"-Gesellschaft mit beschränkter Haftung ist eine geschlossene Gesellschaft, da die Haftung der Gesellschafter auf den Wert ihrer Anteile an der Gesellschaft beschränkt ist.",
+"@llcParagraph": {
+},
+"llcEstablishement":"- Kann zu 100 % im Besitz von Ausländern sein.\n - Die Mindestanzahl der Anteilseigner beträgt 2 (Einzelpersonen oder Unternehmen).\n - Sie brauchen kein Kapital bei der Bank zu hinterlegen (es ist keine Einzahlung erforderlich).",
+"@llcEstablishment": {
+},
+"llcManagment":"- Manager können Ägypter oder Ausländer sein.",
+"@llcManagment": {
+},
+"llcCapital":"- Das erforderliche Mindeststammkapital beträgt 250.000, die Einzahlung von 10% erfolgt zum Zeitpunkt der Gründung.\n- Einzahlung eines Prozentsatzes von 25 % des gezeichneten Kapitals innerhalb von drei Monaten nach der Gründung und Zahlung des Restbetrags des Nennwerts der Aktien innerhalb von fünf Jahren.\n- Einzahlung eines Prozentsatzes von 25 % des gezeichneten Kapitals innerhalb von drei Monaten nach der Gründung und Einzahlung des Restbetrags des Nennwerts der Aktien innerhalb von fünf Jahren.",
+"@llcCapital": {
+},
+"llcTaxes":"- Steuern zu einem Satz von 22,5 % auf Unternehmensgewinne für GmbH.",
+"@llcTaxes": {
+},
+"llcProfit":"- Erreicht das Kapital der Gesellschaft mit beschränkter Haftung nicht 250.000 LE, ist das Unternehmen nicht verpflichtet, einen Teil des Gewinns an die Arbeitnehmer auszuschütten. \n -Erreicht das Kapital das genannte Kapital, sind 10 % des Nettogewinns an die Arbeitnehmer auszuschütten, sofern diese 10 % nicht den jährlichen Gesamtwert der an die Arbeitnehmer zu zahlenden Löhne und Gehälter übersteigen. ",
+"@llcProfit": {
+},
+"fcParagraph":"-Ausländische Zweigstellen können in Ägypten nur registriert werden, um Bauarbeiten oder allgemein Arbeiten vertraglicher Art auf der Grundlage eines mit einer ägyptischen Einrichtung, sei es die ägyptische Regierung, der öffentliche Sektor oder ein privates Unternehmen, geschlossenen Vertrags durchzuführen. \n -Die Inanspruchnahme einer ausländischen Zweigstelle ist auf den Zweck der Durchführung eines bestimmten Auftrags in Ägypten beschränkt.  \n - Dieser Vertrag sollte mit einem in Ägypten ansässigen Unternehmen unterzeichnet werden.",
+"@fcParagraph": {
+},
+"fcManagment":"- Manager können Ägypter oder Ausländer sein.",
+"@fcManagment": {
+},
+"fcCapital":"- Es sind keine Kapitalanforderungen erforderlich.",
+"@fcCapital": {
+},
+"fcTaxes":"- Steuern zu einem Satz von 22,5 % auf Unternehmensgewinne für ausländische Zweigstellen (derselbe Satz wie für ägyptische Unternehmen). \n - Ausländische Zweigstellen sind berechtigt, eine Verwaltungsgebühr von bis zu 10 % ihres steuerpflichtigen Einkommens abzuziehen. \n - Die Gewinne ausländischer Zweigstellen in Ägypten werden innerhalb von 60 Tagen nach Ende des Geschäftsjahres als ausgeschüttete Gewinne betrachtet. Folglich muss eine Zweigstelle Dividendensteuer auf ihre Jahresgewinne zahlen.",
+"@fcTaxes": {
+},
+"opParagraph":"-Das Mindestkapital beträgt 1.000 EGP und muss zum Zeitpunkt der Gründung in voller Höhe eingezahlt werden. \n -Die Haftung des Eigentümers ist auf seinen Anteil an der Gesellschaft beschränkt. ",
+"@opParagraph": {
+},
+"opAdvantagesTitle":"Vorteile eines Ein-Personen-Unternehmens",
+"@opAdvantagesTitle": {
+},
+"opAdvantages":"- Die Ein-Personen-Gesellschaft benötigt nur einen Gesellschafter oder Gründer, so dass die Möglichkeit für den Kleinanleger besteht, ein Unternehmen zu besitzen, ohne eine bestimmte Anzahl von Gesellschaftern oder Aktionären erwerben zu müssen. Da eine Ein-Personen-Gesellschaft der Eigentümer-Gesellschafter ist, haftet dieser für seinen Anteil nur mit der Höhe des Gesellschaftskapitals. \n -Ein weiterer Vorteil der Ein-Personen-Gesellschaft besteht darin, dass die Entscheidungen innerhalb des Unternehmens getroffen werden, da der Eigentümer einer Ein-Personen-Gesellschaft als einziger Gesellschafter alle Befugnisse des Vorstands und die Befugnisse der ordentlichen und außerordentlichen Generalversammlung ausübt. ",
+"@opAdvantages": {
+},
+"opEstablishTitle":"Gründung und Arbeit eines Ein-Personen-Unternehmens",
+"@opEstablishTitle": {
+},
+"opEstablish":"-Gründung einer Ein-Personen-Gesellschaft durch nur eine natürliche oder juristische Person. Danach ist jeder weitere Partner in der Gesellschaft keine Ein-Personen-Gesellschaft mehr. \n-Der Gründer muss eine Gesellschaft in Ägypten selbst oder durch seinen Vertreter gründen, indem er einen Antrag bei der Behörde stellt. Jede Gesellschaft muss eine Satzung haben, die ihren Namen, ihren Zweck, die Daten ihres Gründers, ihre Dauer und ihr Verwaltungssystem, die Adresse ihres Hauptsitzes und ihrer Zweigniederlassungen, die Höhe ihres Kapitals und die Auflösung der Gesellschaft enthält. Und alle Daten, die in den Ausführungsbestimmungen erwähnt werden. \n-Die Genehmigung des Premierministers oder des zuständigen Ministers, wenn der Gründer des Unternehmens eine Person des öffentlichen Rechts ist. \n-Die vollständige Einzahlung des Gesellschaftskapitals vor der Gründung der Gesellschaft. \n-Falls der Gründer das Kapital an eine natürliche oder juristische Person veräußert hat, müssen die Daten des Unternehmens und das Handelsregister innerhalb einer Frist von höchstens drei Monaten ab dem Datum der Transaktion gemäß den in den Verordnungen festgelegten Verfahren und Regeln geändert werden. In jedem Fall ist der Rechtsakt gegenüber Dritten nur bis zum Zeitpunkt der Eintragung in das Handelsregister wirksam.",
+"@opEstablish": {
+},
+"rpParagrpah":"- Ihr Zweck beschränkt sich auf das Studium des Marktes, ohne irgendeine Art von kommerzieller Tätigkeit auszuüben.\n - Unterliegt nur der Lohn- und Quellensteuer.\n - Unterliegt nur der Lohn- und Quellensteuer.\n - Unterliegt nicht der Einkommens- oder Mehrwertsteuer.\n - Manager können Ausländer oder Ägypter sein. ",
+"@rpParagraph": {
+},
+"rpShouldNot":"Vertretungsbüros sollten nicht",
+"@rpShouldNot": {
+},
+"rpShouldNot1":"- Jede Rechnung ausstellen.\n - Jedes Geld vor Ort empfangen (was bedeutet, dass das Bankkonto nur Eingänge von der Hauptverwaltung widerspiegeln sollte).",
+"@rpShouldNot1": {
+},
+"rpShouldNot2":"Wichtiger Hinweis:",
+"@rpShouldNot2": {
+},
+"rpShouldNot3":"- Nach dem Beschluss der GAFI sollte die Lebensdauer einer Repräsentanz im Durchschnitt 3 Jahre nicht überschreiten und die Genehmigung für die Arbeit Jahr für Jahr erteilt werden.\n - Die GAFI verlangt, dass die Repräsentanz ihr jedes Jahr Marktstudien vorlegt.\n - Die Repräsentanz sollte nach Abschluss ihrer Marktstudie eine Entscheidung über die Eröffnung eines Unternehmens oder einer Niederlassung treffen.",
+"@rpShouldNot3": {
+},
+"inquiry":"Für Anfragen oder Fragen kontaktieren Sie uns bitte unter",
+"@inquiry": {
+},
+"cairo":"Kairo",
+"@cairo": {
+},
+"adress":"Adresse",
+"@adress": {
+},
+"phone":"Telefon",
+"@phone": {
+},
+"alex":"Alexandrien",
+"@alex": {
+},
+"payRoll":"Lohnsteuer (Salary Tax)",
+"@payRoll": {
+},
+"socialcultu":"Fonds für soziale und kulturelle Dienstleistungen",
+"@socialcultu": {
+},
+"annualTax":"Jährliche Steuerabstimmung \n (Formular 6)",
+"@annualTax": {
+},
+"dueDateTax":"- Fälligkeitsdatum der Steuererklärung:",
+"@dueDateTax": {
+},
+"taxDate":"Datum der Steuerzahlung:",
+"@taxDate": {
+},
+"tRate":"- Zinssätze :",
+"@tRate": {
+},
+"socialCont":"Sozialer Beitrag zum Gedenken an die Gefallenen und Verletzten von Krieg und Terroranschlägen:",
+"@socialCont": {
+},
+"ddCIT":"Die Einkommensteuer muss vor Ende April des folgenden Jahres gezahlt werden Steuerjahr im Falle eines Kalenderjahres ",
+"@ddCIT": {
+},
+"tpCIT":"Die Einkommensteuer muss vor Ende April des folgenden Jahres gezahlt werden Steuerjahr im Falle eines Kalenderjahres ",
+"@tpCIT": {
+},
+"rCIT":"22,5% des Nettoeinkommens",
+"@rCIT": {
+},
+"ddTC":"Er wird als 0.0025 der Gesamtumsatz berechnet. (Wie im Gewinn- und Verlustrechnung)\n Beispiel: Falls der Gesamtumsatz (1,000,000 EGP) ist, dann wird das Takaful Beitrag (1,000,000*0,0025 = 2.500 EGP) sein.",
+"@ddTC": {
+},
+"tpTC":"Takaful Beitrag muss vor Ende April des folgenden Geschäftsjahres bezahlt werden. (vor dem 30. April 2022) \n Er muss auf das folgende Konto Nr. 9300704175 der Zentralbank von Ägypten bezahlt werden.",
+"@tpTC": {
+},
+"rTC":"0,25% des jährlichen Bruttoumsatzes.",
+"@rTC": {
+},
+"ddPT":"Das Formblatt 4 wird vierteljährlich ausgefüllt und muss in dem auf das Quartal folgenden Monat eingereicht werden. \n Beispiel: für das Quartal 4 (Oktober, November und Dezember 2021) muss es bis zum 31. Januar 2022 ausgefüllt und eingereicht werden ",
+"@ddPT": {
+},
+"tpPT":"Sie muss monatlich vor dem 15. des nächsten Monats bezahlt werden.",
+"@tpPT": {
+},
+"rPT":"2,5% bis 25%",
+"@rPT": {
+},
+"ddAT":"Arbeitgeber sollten der Steuerbehörde im Januar eines jeden Jahres eine jährliche Steuerabstimmung vorlegen, in der die Jahresgehälter und Löhne jedes Arbeitnehmers zusammen mit den nicht gezahlten Lohnsteuerbeträgen aufgeführt sind.",
+"@ddAT": {
+},
+"tpAT":"Das Formular 6 wird jährlich eingereicht und muss im Januar eines jeden Jahres vorgelegt werden.",
+"@tpAT": {
+},
+"ddVAT":"Formular 10 wird monatlich ausgefüllt und muss während 30 Tagen des folgenden Monats eingereicht werden.\n Beispiel: für Dezember 2021 muss die Mehrwertsteuererklärung im nächsten Monat vor 31. Januar 2022 eingereicht werden.",
+"@ddVAT": {
+},
+"tpVAT":"Die Mehrwertsteuer muss innerhalb von 30 Tagen bezahlt werden.",
+"@tpVAT": {
+},
+"rVAT":"In der Regel 14%, andere Sätze gelten für geplante Produkte und Dienstleistungen wie (5%, 8% & 10%), einige Produkte sind von der Steuer befreit. ",
+"@rVAT": {
+},
+"ddWHT":"Das Formular 41 wird jeweils Quartal ausgefüllt und im nächsten Monat nach dem Quartal eingereicht.",
+"@ddWHT": {
+},
+"tpWHT":"Sie muss im nächsten Monat nach dem Quartal bezahlt werden. \n Beispiel: Für Quartal 4 (Oktober, November und Dezember 2021) muss die Quellensteuer vor 31. Januar 2022 bezahlt werden.",
+"@tpWHT": {
+},
+"rWHT":"1% Kauf von Waren / 3% Dienstleistungen / 5% Honorare ",
+"@rWHT": {
+},
+"ddWHTF":"Formular 11 wird ausgefüllt und bei der Zentralverwaltung für internationale Vereinbarungen monatlich vor dem 15. des nächsten Monats eingereicht.",
+"@ddWHTF": {
+},
+"tpWHTF":"Es muss monatlich vor dem 15. des nächsten Monat bezahlt werden.\n Beispiel: Wenn ein nicht ansässiges Unternehmen einem ansässigen Unternehmen im Januar 2022 Beratungsdienstleistungen für 100.000 EGP anbietet, dann sollten 20.000 EGP (20% Quellensteuer) vor dem 15. Februar 2022 abgezogen und an die Steuerbehörde bezahlt werden.",
+"@tpWHTF": {
+},
+"rWHTF":"20% (Artikel 56 des Gesetzes Nr. 91 für 2005)",
+"@rWHTF": {
+},
+"ddDT":"Die Abrufe 42 und 44 müssen spätestens am 5. Tag des nächsten Monats nach der Verteilung",
+"@ddDT": {
+},
+"tpDT1":"Sie muss vor dem 5. Tag des folgenden Monats nach der Ausschüttung bezahlt werden.",
+"@tpDT1": {
+},
+"dtException":"*Ausnahme: \n",
+"@dtException": {
+},
+"tpDT2":"Die Gewinne der ausländischen Niederlassungen gelten als ausgeschüttete Gewinne. Die Dividendensteuer muss innerhalb von 60 Tage nach Geschäftsjahresende gezahlt werden.",
+"@tpDT2": {
+},
+"rDT":"10% für nicht börsennotierte Unternehmen / 5% für börsennotierte Unternehmen ",
+"@rDT": {
+},
+"ddSC":"Er wird als 0.0005 des Bruttogehalts der Mitarbeiter berechnet.\n Ex: Wenn Bruttogehalt des Mitarbeiters A ist (10.000 EGP), dann wird der Sozialbeitrag (10.000*0.0005 = 5 EGP) sein.",
+"@ddSC": {
+},
+"tpSC":"Er muss monatlich vor 10. des nächsten Monats auf das Konto Nr. 9450772730 bezahlt werden.\n Beispiel: für den Monat Dezember 2021 muss der Sozialbeitrag vor dem 10. Januar 2022 bezahlt werden.",
+"@tpSC": {
+},
+"rSC":"0,0005 der monatlichen Bruttolöhne",
+"@rSC": {
+},
+
+"tpSI":"Muss monatlich vor dem 15. Tag des Folgemonats gezahlt werden ",
+"@tpSI": {
+},
+"rSI":"11% Arbeitnehmeranteil + 18,75% Unternehmensanteil vom versicherten Lohn (Der minimale versicherte Lohn beträgt 1.400 EGP & der maximale versicherte versicherter Lohn beträgt 9'400 EGP für das Jahr 2022) *Hinweis: Gemäß Beschluss Nr. 57 aus dem Jahr 2021 des Ministeriums für Planung und Wirtschaftsentwicklung wird der Mindestlohn auf 2.400 EGP festgelegt.",
+"@rSI": {
+},
+"ddEF":"Gilt für Unternehmen, die 30 oder mehr Beschäftigte haben.",
+"@ddEF": {
+},
+"tpEF":"Es wird als 0.01 vom Grundgehalt berechnet und muss monatlich vor dem 15. des nächsten Monats bezahlt werden.\n Ex: Wenn das Grundgehalt des Mitarbeiters A (2.060 EGP) ist, dann sollte ein Betrag von (2.060*00.01 = 20,60 EGP) bezahlt werden.",
+"@tpEF": {
+},
+"rEF":"1% des Grundgehalts (mindestens 320 EGP, höchstens 2.060 EGP) für das Jahr 2022.",
+"@rEF": {
+},
+"rSS":"5 EGP für jeden Mitarbeiter",
+"@rSS": {
+},
+"mailUs":"Mail uns",
+"@mailUs": {
+},
+"mailSubject":"Betreff der E-Mail",
+"@mailSubject": {
+},
+"mailContent":"Schreiben Sie für uns",
+"@mailContent": {
+},
+"send":"Senden Sie",
+"@send": {
+},
+"yourOrg":"Ihre Organisation",
+"@yourOrg": {
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
